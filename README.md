@@ -27,15 +27,15 @@ This repository contains R code for analyzing shooting data of a football team r
 - worldfootballR
 
 ## Contributors
-- [Your Name] - [GitHub Profile](https://github.com/yourusername)
+- [Meio Campo]
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
-
+This project is licensed under the [MIT License]
 ## Acknowledgments
 - The WorldFootballR package for providing access to football data.
 - OpenAI for developing GPT-3, which was used to generate this README template.
 
 ## Questions or Issues?
-If you have any questions or encounter any issues while using this code, feel free to open an issue on GitHub or reach out to [your email or contact information]. Contributions are also welcome!
+If you have any questions or encounter any issues while using this code, feel free to open an issue on GitHub. 
+Contributions are also welcome!
 
