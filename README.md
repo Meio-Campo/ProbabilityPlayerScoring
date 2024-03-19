@@ -9,12 +9,16 @@ This repository contains R code for analyzing shooting data of a football team r
 # Usage
 # Setup
 Ensure you have R installed on your system.
+
 Install the required package worldfootballR using 'install.packages("worldfootballR")'.
+
 Load the necessary library using 'library(worldfootballR)'.
 
 # Functions
 'collect_shooting_data': Collects shooting data from match URLs and combines it into a dataframe.
+
 'filter_team_matches': Filters matches by team name.
+
 'simulate_player_goals': Simulates goals scored by a player based on their expected goals (xG).
 
 # Example Usage
